@@ -11,7 +11,7 @@ import SwiftUI
 struct DesignCodeiOS15StudyApp: App {
     var body: some Scene {
         WindowGroup {
-            MatchedView()
+            ContentView()
         }
     }
 }
